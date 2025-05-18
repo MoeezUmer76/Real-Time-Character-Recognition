@@ -1,7 +1,7 @@
 # Real-Time Character Recognition
 
 This project implements a neural network for real-time recognition of handwritten digits (0-9) and letters (A-Z) using the EMNIST ByClass dataset. It features a multi-layer perceptron (MLP) trained on EMNIST data and integrates OpenCV for live webcam-based character recognition.
-<br>
+<br><br>
 Features<br>
 Neural network with customizable layers (default: 784-128-64-47).<br>
 Supports EMNIST ByClass dataset (47 classes: 0-9, A-Z, some lowercase).<br>
